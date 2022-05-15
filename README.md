@@ -1,4 +1,4 @@
-# basic-cassandra
+# cassandra-demo
 
 This repo consists of a sample SpringBootApplication which connects to a local instance of cassandra DB running on default port 9042.
 
