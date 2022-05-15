@@ -12,5 +12,6 @@ Create TABLE UserData(id int PRIMARY KEY, name text, address text, age int);
 Start SpringBootApplication : This will insert few records into UserData table and same can be visualised with endpoints:
 
 http://localhost:8080/getUsersFilterByAge/40
+
 http://localhost:8080/getAllUsers
 
